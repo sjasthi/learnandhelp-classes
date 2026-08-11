@@ -78,11 +78,10 @@ learn to **create solutions and make an impact**.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ### Connect with Learn and Help
 
-[🌐 Website](https://www.learnandhelp.com) · [✉️
-Email](mailto:info@learnandhelp.com) ·
+[🌐 Website](https://www.learnandhelp.com) · 
+[✉️Email](mailto:info@learnandhelp.com) ·
 [Facebook](https://www.facebook.com/learnnhelp) ·
 [LinkedIn](https://www.linkedin.com/company/learn-n-help/) ·
 [Instagram](https://www.instagram.com/learn.and.help/)
