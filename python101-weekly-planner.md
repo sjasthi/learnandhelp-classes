@@ -11,7 +11,7 @@
 </p>
 
 # Python 101 Weekly Planner 2026-27
-**Prerequisites: None. This course is meant for absolute beginners and is the primary entry point to Learn and Help classes**
+**Prerequisites: None. This course is meant for absolute beginners and is the primary entry point to Learn and Help classes**  
 **Timings:  10 to 11:30 AM (Morning Session)  or  7:00 to 8:30 PM (Evening Session) every Sunday**
 **Homework Help Session: Every Wednesday at 8 PM CST**
 
