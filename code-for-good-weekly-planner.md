@@ -11,6 +11,8 @@
 </p>
 
 # 🌟 Code for Good — Weekly Planner (30 Weeks)
+**Prerequisite: Python for Data Science (Python DS)**  
+**Academic Year: 2026-2027**
 
 ## 🎯 Course Overview
 This 30-week program teaches full-stack web development with real-world engineering practices. Students build and deploy a **real web application** for a nonprofit, business, or LLC while learning frontend, backend, databases, security, DevOps, and GenAI tools.
