@@ -12,7 +12,7 @@
 
 # Python for Data Science - Weekly Planner
 
-**Learn and Help**  
+**Prerequisite: Python 101**  
 **Academic Year: 2026-2027**
 
 ---
