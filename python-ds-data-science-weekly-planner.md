@@ -14,6 +14,7 @@
 
 **Prerequisite: Python 101**  
 **Academic Year: 2026-2027**
+**Timings: 9:30 AM to 10:30 AM CST Every Saturday**
 
 ---
 
