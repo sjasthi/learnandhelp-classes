@@ -1,5 +1,3 @@
-![Learn and Help Logo](https://www.learnandhelp.com/images/supported_by/learn_n_help_logo.png)
-
 <p align="center">
   <img src="https://www.learnandhelp.com/images/supported_by/learn_n_help_logo.png"
        alt="Learn and Help Logo"
