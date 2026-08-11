@@ -12,6 +12,8 @@
 
 # Python 101 Weekly Planner 2026-27
 
+## Timings:  10 to 11:30 AM (Morning Session)  or  7:00 to 8:30 PM (Evening Session)
+
 ## Course Schedule
 
 | Week | Start Date   | Due Date     | Topic                                                                                                        | Assignments                 | Labs   | Quizzes/Tests |
