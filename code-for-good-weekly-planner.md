@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://www.learnandhelp.com/images/supported_by/learn_n_help_logo.png"
+       alt="Learn and Help Logo"
+       width="288">
+</p>
+
+
 # 🌟 Code for Good — Weekly Planner (30 Weeks)
 
 ## 🎯 Course Overview
