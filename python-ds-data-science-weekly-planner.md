@@ -2,9 +2,10 @@
   <img src="https://www.learnandhelp.com/images/supported_by/learn_n_help_logo.png"
        alt="Learn and Help Logo"
        width="288">
-  <h1> Empowering Minds, Inspiring Generosity!</h1>
-  <h2> www.learnandhelp.com</h2>
 </p>
+
+***Empowering Minds, Inspiring Generosity!***
+***www.learnandhelp.com***
 
 # Python for Data Science - Weekly Planner
 
